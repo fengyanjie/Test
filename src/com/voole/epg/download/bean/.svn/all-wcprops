@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/project/!svn/ver/267362/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/Download2.0/Download2.0/src/com/voole/epg/download/bean
+END
+IContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/project/!svn/ver/263810/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/Download2.0/Download2.0/src/com/voole/epg/download/bean/IContent.java
+END
+DLError.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/project/!svn/ver/225645/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/Download2.0/Download2.0/src/com/voole/epg/download/bean/DLError.java
+END
+DownController_new.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/project/!svn/ver/263810/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/Download2.0/Download2.0/src/com/voole/epg/download/bean/DownController_new.java
+END
+DownController.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/project/!svn/ver/263810/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/Download2.0/Download2.0/src/com/voole/epg/download/bean/DownController.java
+END
+DownLoadFilm.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/project/!svn/ver/263810/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/Download2.0/Download2.0/src/com/voole/epg/download/bean/DownLoadFilm.java
+END
+IDownloadControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/project/!svn/ver/263810/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/Download2.0/Download2.0/src/com/voole/epg/download/bean/IDownloadControl.java
+END
+DownloadResourceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/project/!svn/ver/267362/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/Download2.0/Download2.0/src/com/voole/epg/download/bean/DownloadResourceManager.java
+END
+StandardAuth.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/project/!svn/ver/225645/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/Download2.0/Download2.0/src/com/voole/epg/download/bean/StandardAuth.java
+END
+BaseDownloadManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/project/!svn/ver/263810/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/Download2.0/Download2.0/src/com/voole/epg/download/bean/BaseDownloadManager.java
+END
+F4kFilmAndPageInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/project/!svn/ver/225645/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/Download2.0/Download2.0/src/com/voole/epg/download/bean/F4kFilmAndPageInfo.java
+END
+FilmDownLoad4k.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/project/!svn/ver/225645/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/Download2.0/Download2.0/src/com/voole/epg/download/bean/FilmDownLoad4k.java
+END
+StandardProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/project/!svn/ver/263810/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/Download2.0/Download2.0/src/com/voole/epg/download/bean/StandardProxy.java
+END

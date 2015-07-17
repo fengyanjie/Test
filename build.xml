@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="VooleEpgF4k">
+	<property name="sdk.dir" value="/opt/android-sdk-linux_x86" />
+
+	<loadproperties srcFile="project.properties" />
+
+<!-- 	<property name="key.store" value="${sdk.dir}/voole_android_signature.signature" />
+	<property name="key.store.password" value="unionvoole" />
+	<property name="key.alias" value="voole" />
+	<property name="key.alias.password" value="unionvoole" />
+	<property name="has.keystore" value="true" /> -->
+
+	<import file="${sdk.dir}/tools/ant/build.xml" />
+</project>
